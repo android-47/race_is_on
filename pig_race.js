@@ -1,7 +1,7 @@
 // author: Javier Garcia Ramirez
 // create date: Thursday, July 22nd, 2020
 // last modified: Thursday, July 30th, 2020
-// filename: 8.race_is_on.js
+// filename: pig_race.js
 // description: generate random speeds, for 10 race objects, given a range and distance by user; identify the winner
 // runtime: 1.303
 // creation time: 4 hours 13 minutes
